@@ -1,0 +1,101 @@
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\ApplicationInsights.config
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.exe
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.exe
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll.config
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.pdb
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Web.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.ApplicationInsights.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Web.xml
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.ApplicationInsights.xml
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.dll
+c:\users\lab\documents\visual studio 2015\Projects\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\ApplicationInsights.config
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.exe
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Collections.Immutable.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Reflection.Metadata.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.exe
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe.config
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll.config
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.pdb
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Agent.Intercept.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.DependencyCollector.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Web.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.WindowsServer.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.ApplicationInsights.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.DependencyCollector.xml
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Web.xml
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.WindowsServer.xml
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.ApplicationInsights.xml
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csprojResolveAssemblyReference.cache
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.dll
+D:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\ApplicationInsights.config
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.exe
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Collections.Immutable.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Reflection.Metadata.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.exe
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe.config
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll.config
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.pdb
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Agent.Intercept.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.DependencyCollector.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Web.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.WindowsServer.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.ApplicationInsights.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.DependencyCollector.xml
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.Web.xml
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.AI.WindowsServer.xml
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.ApplicationInsights.xml
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csprojAssemblyReference.cache
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.CoreCompileInputs.cache
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.CopyComplete
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.dll
+F:\p\Rubens\PW2\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
